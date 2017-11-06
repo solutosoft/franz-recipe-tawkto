@@ -1,0 +1,13 @@
+{
+  "id": "tawkto",
+  "name": "Tawk.to",
+  "version": "1.0.0",
+  "description": "Message Your Customers in Real Time",
+  "main": "index.js",
+  "author": "Leandro Guindani Gehlen <leandrogehlen@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://dashboard.tawk.to/login",
+    "hasNotificationSound": true
+  }
+}

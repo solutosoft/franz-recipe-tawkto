@@ -1,2 +1,3 @@
-# recipe-tawkto
-Franz Recipe for Tawk.to 
+# Tawk.to for Franz
+
+Franz Recipe for Tawk.to
